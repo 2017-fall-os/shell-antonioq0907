@@ -6,7 +6,9 @@ Shell main code in shell.c
     Different comments throughtout the code, with short descriptions of each methods.
 
 Test
+
     TEST                        OUTPUT
+    
     -----------------------------------
     cd ..                       Passed
     -----------------------------------
